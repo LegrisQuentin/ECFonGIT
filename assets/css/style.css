@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'ubunturegular';
+    src: url('../fonts/ubuntu-regular-webfont.woff2') format('woff2'),
+         url('../fonts/ubuntu-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.material-symbols-outlined {
+    vertical-align: bottom;
+}
+
+body {
+    background-image: url("../img/film-reel-gfb66f24c7_1280.png");    
+}
+
+* {
+    font-family: 'ubunturegular';
+}

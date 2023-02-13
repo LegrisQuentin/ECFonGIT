@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^5.0.15",
+    "jquery": "^3.6.3",
+    "json": "^11.0.0",
+    "sweetalert2": "^11.7.1"
+  }
+}
