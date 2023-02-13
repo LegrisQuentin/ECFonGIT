@@ -1,2 +1,2 @@
-/img/*
-/node_modules/
+.assets/img/*
+./node_modules/
